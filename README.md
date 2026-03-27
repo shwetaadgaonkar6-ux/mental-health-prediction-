@@ -138,7 +138,6 @@ Then: `Kernel → Restart & Run All`
 ## Author
 
 **Shweta Adgaonkar**
-Master of Data Science — RMIT University
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shweta-adgaonkar-b852a6223)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)](https://github.com/shwetaadgaonkar6-ux)
